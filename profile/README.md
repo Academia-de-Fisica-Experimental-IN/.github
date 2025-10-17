@@ -7,7 +7,7 @@ Somos un grupo de estudiantes de enseñanza media del **Instituto Nacional** ded
 
 
 ## 🔬 Nuestros Proyectos
-Nos enfocamos en el desarrollo de proyectos educativos que nos permiten medir e interactuar con el mundo que nos rodea. Nuestros trabajos abarcan desde la creación de dispositivos de monitoreo ambiental, como **sensores de CO₂ para analizar la calidad del aire**, hasta otros montajes básicos diseñados para demostrar conceptos fundamentales de la física.
+Nos enfocamos en el desarrollo de proyectos educativos que nos permiten medir e interactuar con el mundo que nos rodea. Nuestros trabajos abarcan desde la creación de dispositivos de monitoreo ambiental, como **sensores de CO₂ para analizar la calidad del aire**, **sensores de colores para detectar objetos**, hasta otros montajes básicos diseñados para demostrar conceptos fundamentales de la física.
 
 El objetivo de cada proyecto es fomentar la curiosidad, el pensamiento crítico y las habilidades de resolución de problemas.
 
